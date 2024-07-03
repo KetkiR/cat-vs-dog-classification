@@ -1,0 +1,1 @@
+The Cat vs Dog Photo Classifier is a machine learning project designed to distinguish between images of cats and dogs. This project involves the application of computer vision and deep learning techniques to develop a model that can accurately classify images into two categories: cats and dogs.
